@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-    Tidal Social App
+    Ost SH - Ost's Social APP
 </h1>
 
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-    Welcome to <strong>Tidal</strong>, a new wave in social networking that combines simplicity with subtlety. Tidal is designed to offer a seamless, elegant experience, bringing people together in an environment that feels natural and fluid. Our platform emphasizes ease of use, meaningful interactions, and a community-driven approach.
+    Welcome to <strong>Ost SH</strong>, a new wave in social networking that combines simplicity with subtlety. Tidal is designed to offer a seamless, elegant experience, bringing people together in an environment that feels natural and fluid. Our platform emphasizes ease of use, meaningful interactions, and a community-driven approach.
 </p>
 
 ## Features
