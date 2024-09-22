@@ -9,13 +9,16 @@ Updates will depend on Tidal, since I'm not used to programming...
 The advantages of this social network are that 
 
 -Open Source Anyone can take this project and write on top, as long as they make their own assets, of course! 
--API Ost SH uses the Tidal API with SK Support 
+
+-API Ost SH uses the Tidal API with SK Support
+
 -Bots Ost SH allows you to create bots too Before you download the project,
 
 # Warning!
  keep this in mind! 
 
 -You are not allowed to reuse the current assets of this project and the name and brand, seriously this is frustrating, writing on top of it is fine, but using it to pretend to be it is very frustrating because I don't want people to confuse it with the fake website
+
  -To modify the Project, you need Git and Node.JS installed and a program to add/edit code, that's why I recommend Visual Code Studio 
 
 # What should I do after I download Node.JS and Git? 
