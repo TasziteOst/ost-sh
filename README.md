@@ -1,38 +1,79 @@
-Ost SH is a social network generally focused on games, etc., but it is also valid for other types of categories.... as if it were Twitter, but Brazilian. 
-# How Ost SH is made?
-Ost SH was written on top of the Tidal Social Network, which is an Open Source project with the MIT License made by @uesleibros, but with changed Servers and API. 
-# How Account Works?
-If you have an account in the game Taszite: Madness, you can enter Ost SH with it (which is currently in development and has no preview of release). 
-# Will there be updates? 
-Updates will depend on Tidal, since I'm not used to programming... 
-# What are the advantages? 
-The advantages of this social network are that 
+<div align="center">
+    <img src="/assets/logo.png" width="80" height="80" alt="Social App Logo" />
+</div>
 
--Open Source Anyone can take this project and write on top, as long as they make their own assets, of course! 
+<h1 align="center">
+    Tidal Social App
+</h1>
 
--API Ost SH uses the Tidal API with SK Support
+<div align="center">
+    
+![Vercel](https://img.shields.io/badge/saas:%20vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Next.js](https://img.shields.io/badge/built:%20next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![JWT](https://img.shields.io/badge/auth:%20jwt%20token-%23000000.svg?style=for-the-badge&logo=json%20web%20tokens&logoColor=FF4081)
+![Media](https://img.shields.io/badge/media:%20imgur-%231BB13B.svg?style=for-the-badge&logo=imgur&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/database:%20postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    
+</div>
 
--Bots Ost SH allows you to create bots too Before you download the project,
+<p align="center">
+    Welcome to <strong>Tidal</strong>, a new wave in social networking that combines simplicity with subtlety. Tidal is designed to offer a seamless, elegant experience, bringing people together in an environment that feels natural and fluid. Our platform emphasizes ease of use, meaningful interactions, and a community-driven approach.
+</p>
 
-# Warning!
- keep this in mind! 
+## Features
 
--You are not allowed to reuse the current assets of this project and the name and brand, seriously this is frustrating, writing on top of it is fine, but using it to pretend to be it is very frustrating because I don't want people to confuse it with the fake website
+- **Intuitive Interface**: A clean, minimalist design that prioritizes user experience.
+- **Real-Time Updates**: Stay connected with your friends and followers with instant updates.
+- **Privacy-Focused**: Your data is yours. We value and protect your privacy.
+- **Customizable Profiles**: Express yourself with profile options that suit your personality.
+- **Open Source**: Tidal is open to the community. You can contribute to its growth and development.
+- **API**: The API of Tidal is easily to use, with SDK support.
+- **Creating Bots**: You're free to create bots using the Tidal API with the same facility of Discord.
 
- -To modify the Project, you need Git and Node.JS installed and a program to add/edit code, that's why I recommend Visual Code Studio 
+## Resources
 
-# What should I do after I download Node.JS and Git? 
-When installing these programs 
+- [Overview](/overview): A Overview on Social App, explaining everything about functions and algorithm.
+- [Algorithms](/algorithms): All algorithms used on Social App.
+- [Repository Assets](/assets): All assets used on main [`README.md`](/README.md).
+- [Scripts](/scripts): Scripts Tools used for development of The Social App.
 
-> Open Node.JS 
- > In it, type "npm install" (removing the quotes)
+## Contributing
 
- >Now go to your CMD 
-  > type "cd desktop" 
-    > then "git clone //link" 
+Thank you for considering contributing to **Tidal**! We appreciate any help in improving our project, whether through fixing bugs, adding new features, or enhancing documentation. Your contributions help us build a better product for everyone. Check the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for more details.
 
-Warning: Make sure to use the link to this directory or from Tidal, Tidal is the most recommended, since there may be some errors here
+## Environment Setup
 
- I recommend you download Everything in ZIP instead of rewriting everything!
+To begin developing your social application, you will first need to set up the `.env` file. You can find an example configuration in the [`.env.example`](/.env.example) file.
 
- Tidal Repository: https://github.com/bedrockfrontiers/social-app.git
+### Guidelines
+
+To ensure that your contributions are of high quality and can be reviewed in a timely manner, please adhere to the following guidelines:
+
+1. **Scope and Quality**:
+    - **High-Impact Contributions**: Focus on submitting issues and pull requests that significantly improve the project. Minor tweaks or superficial changes should be grouped together or combined with larger contributions.
+    - **Code Quality**: Write clean, maintainable, and well-documented code. Follow the existing coding conventions and structure your commits logically.
+
+2. **Issue Reporting**:
+    - **Clear Descriptions**: Provide detailed and clear descriptions of the issue. Include steps to reproduce the problem, expected behavior, and screenshots if applicable.
+    - **Check for Duplicates**: Before submitting an issue, search the existing issues to ensure it hasn’t already been reported.
+
+3. **Pull Requests**:
+    - **Branching**: Create a new branch for each contribution. Use descriptive branch names that reflect the feature or fix (e.g., `fix/issue-123` or `feature/user-auth`).
+    - **Comprehensive Testing**: Ensure that your code is fully tested. Write new tests for any new functionality and ensure all existing tests pass.
+    - **Commit Messages**: Write clear and descriptive commit messages. Use the imperative mood (e.g., “Fix bug in user authentication”).
+    - **Documentation**: Update any relevant documentation to reflect your changes. If your contribution adds new features, include examples and instructions for use.
+
+4. **Code Review Process**:
+    - **Responsiveness**: Be prepared to address feedback from the maintainers. This may involve making changes to your code, adding more tests, or improving documentation.
+    - **Collaboration**: Engage with reviewers and other contributors in a constructive and professional manner. If there are any disagreements, discuss them openly and seek consensus.
+
+5. **Communication**:
+    - **Engagement**: Join discussions in the [Discussions](https://github.com/BedrockFrontiers/social-app/discussions) section to share ideas, seek feedback, or ask questions before starting significant work.
+
+## License
+
+Tidal is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more details.
+
+## Forking Guidelines
+
+Ensure your fork is up to date with the original repository. Test your changes thoroughly before submitting a pull request.
