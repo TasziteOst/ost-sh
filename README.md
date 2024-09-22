@@ -17,20 +17,26 @@
 </div>
 
 <p align="center">
-    Welcome to <strong>Ost SH</strong>, a new wave in social networking that combines simplicity with subtlety. Tidal is designed to offer a seamless, elegant experience, bringing people together in an environment that feels natural and fluid. Our platform emphasizes ease of use, meaningful interactions, and a community-driven approach.
+    Welcome to <strong>Ost SH</strong>, a new social media for share your moments... gereal for Gaming but allow other stuff too
 </p>
 
-## Features
+## Advantages
 
 - **Intuitive Interface**: A clean, minimalist design that prioritizes user experience.
 - **Real-Time Updates**: Stay connected with your friends and followers with instant updates.
 - **Privacy-Focused**: Your data is yours. We value and protect your privacy.
 - **Customizable Profiles**: Express yourself with profile options that suit your personality.
-- **Open Source**: Tidal is open to the community. You can contribute to its growth and development.
-- **API**: The API of Tidal is easily to use, with SDK support.
+- **Open Source**: Tidal is open to the community. You can contribute to its growth and development. and you can use this project for personal and cormecial use (warning! read the Warning session before)
+- **API**: The API of Ost SH is same of Tidal and is easily to use, with SDK support.
 - **Creating Bots**: You're free to create bots using the Tidal API with the same facility of Discord.
 
+# How Ost SH is made
+
+Ost SH was written on top of Tidal Social Network, The code is same but with some changes
+
 ## Resources
+
+This project is open-source but you need create own assets!
 
 - [Overview](/overview): A Overview on Social App, explaining everything about functions and algorithm.
 - [Algorithms](/algorithms): All algorithms used on Social App.
@@ -70,10 +76,23 @@ To ensure that your contributions are of high quality and can be reviewed in a t
 5. **Communication**:
     - **Engagement**: Join discussions in the [Discussions](https://github.com/BedrockFrontiers/social-app/discussions) section to share ideas, seek feedback, or ask questions before starting significant work.
 
-## License
+## Warning!
 
-Tidal is licensed under the MIT License. See the [LICENSE](/LICENSE) file for more details.
+-You not have permission to use Ost's assets! make own assets or find on the web what support free-to-use
+-To modfiy this project you need Node.JS and Git instaled progams and you need follow these steps
+    >open Node.js
+     >digit the comand "npm install"
+    > now open Git
+     >git clone /link/
+      Note: Notice the /link/ is repository of Ost SH or Tidal, I recomend using the Tidal Repository: https://github.com/bedrockfrontiers/social-app.git
+-if you change name of your assets you need change asset name on code
+
+# LICENSE
+Ost SH is licensed under the MIT License. Same Tidal See the [LICENSE](/LICENSE) file for more details.
 
 ## Forking Guidelines
 
 Ensure your fork is up to date with the original repository. Test your changes thoroughly before submitting a pull request.
+
+# Credits
+Ost SH is a Social APP and my design made by me but all code and the folders is made by @uesleibros
