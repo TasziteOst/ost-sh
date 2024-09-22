@@ -34,3 +34,5 @@ When installing these programs
 Warning: Make sure to use the link to this directory or from Tidal, Tidal is the most recommended, since there may be some errors here
 
  I recommend you download Everything in ZIP instead of rewriting everything!
+
+ Tidal Repository: https://github.com/bedrockfrontiers/social-app.git
