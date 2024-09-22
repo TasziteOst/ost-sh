@@ -45,7 +45,7 @@ This project is open-source but you need create own assets!
 
 ## Contributing
 
-Thank you for considering contributing to **Tidal**! We appreciate any help in improving our project, whether through fixing bugs, adding new features, or enhancing documentation. Your contributions help us build a better product for everyone. Check the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for more details.
+Thank you for considering contributing to **Ost SH**! We appreciate any help in improving our project, whether through fixing bugs, adding new features, or enhancing documentation. Your contributions help us build a better product for everyone. Check the [CONTRIBUTING.md](/docs/CONTRIBUTING.md) file for more details.
 
 ## Environment Setup
 
@@ -79,12 +79,19 @@ To ensure that your contributions are of high quality and can be reviewed in a t
 ## Warning!
 
 -You not have permission to use Ost's assets! make own assets or find on the web what support free-to-use
+
 -To modfiy this project you need Node.JS and Git instaled progams and you need follow these steps
+
     >open Node.js
+    
      >digit the comand "npm install"
+     
     > now open Git
+    
      >git clone /link/
+     
       Note: Notice the /link/ is repository of Ost SH or Tidal, I recomend using the Tidal Repository: https://github.com/bedrockfrontiers/social-app.git
+      
 -if you change name of your assets you need change asset name on code
 
 # LICENSE
