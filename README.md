@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/logo.png" width="80" height="80" alt="Social App Logo" />
+    <img src="/assets/icon.png" width="80" height="80" alt="Social App Logo" />
 </div>
 
 <h1 align="center">
